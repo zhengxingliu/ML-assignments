@@ -1,1 +1,1 @@
-# ML-assignments
+# collection of ML assignments
